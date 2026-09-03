@@ -8,21 +8,21 @@
   <ul align="center">
     <summary><h1 style="display: inline-block">Hi 👋, I'm Rahat</h1></summary>
     <!--- typo --->
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=25&pause=1000&color=2B90FF&center=true&vCenter=true&width=500&lines=Technical+Instructor+@PH;Passionate+Full+Stack+Web+Developer;JavaScript+Enthusiast;Interested+in+Bioinformatics" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Currently+building+modern+web+applications+with+JavaScript%2C+React%2C+and+Next.js.+;+Frontend+Developer+aspiring+to+become+a+Full-Stack+Developer.;Passionate+abo" alt="Typing SVG" /></a>
   </ul>
 </div>
 
 <br/>
 
 <!--- about --->
-- 👋 Hi, I’m **[@touhidcodes](https://github.com/touhidcodes)**
+- 👋 Hi, I’m **[@rahatlab](https://github.com/rahatlab)**
 - 🖥️ I’m currently working on **React.js, Next.js, Typescript and Redux** for frontend development.
 - 🗄️ Using **Node.js, Express.js, MongoDB, Mongoose, PostgreSQL, and Prisma** for the backend.
 - 🛠️ I’m currently learning **React Native, GraphQL, Docker and AWS**.
 - 💬 Ask me about **Full-Stack (React, Next, Node, Express, MongoDB, PostgreSQL)**.
-- 🌐 Explore My Portfolio **[TouhidCodes](https://touhidcodes.vercel.app/)** and My **[Resume](https://drive.google.com/uc?export=download&id=15hKPeWqITR4Sa_OncoDhpUdaNgnLJhBO)**
+- 🌐 Explore My Portfolio **[rahatlab](https://rahatlab.vercel.app/)** and My **[Resume](https://drive.google.com/uc?export=download&id=15hKPeWqITR4Sa_OncoDhpUdaNgnLJhBO)**
 - 📝 I regularly write articles on **[LinkedIn](https://linkedin.com/in/touhidur-zaman)**
-- 📫 Feel free to reach me out **[Email](touhidcodes@gmail.com)**
+- 📫 Feel free to reach me out **[Email](rahatlab@gmail.com)**
   
 <br/>
 
@@ -31,9 +31,9 @@
 
 <div>
   <p align="left">
-    <a href="https://linkedin.com/in/touhidur-zaman" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="touhidcodes" height="30" width="40" /></a>
-    <a href="https://discord.gg/touhidcodes#9825" target="blank"><img src="https://skillicons.dev/icons?i=discord" alt="touhidcodes#9825" height="30" width="40" /></a>
-    <a href="https://dev.to/touhidcodes" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="touhidcodes" height="30" width="40" /></a>
+    <a href="https://linkedin.com/in/touhidur-zaman" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="rahatlab" height="30" width="40" /></a>
+    <a href="https://discord.gg/rahatlab#9825" target="blank"><img src="https://skillicons.dev/icons?i=discord" alt="rahatlab#9825" height="30" width="40" /></a>
+    <a href="https://dev.to/rahatlab" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="rahatlab" height="30" width="40" /></a>
     <a href="https://stackoverflow.com/users/22104988" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22104988" height="30" width="40" /></a>
   </p>
 </div>
@@ -44,25 +44,25 @@
 ##  <img src="https://media4.giphy.com/media/KGhpQ5NMoWKQurlHwI/giphy.webp" width ="35"><b> TECHNOLOGY STACK:</b>
 
 ### Languages:
-[![Languages](https://skillicons.dev/icons?i=html,css,javascript,typescript,graphql,py)](https://github.com/touhidcodes)
+[![Languages](https://skillicons.dev/icons?i=html,css,javascript,typescript,graphql,py)](https://github.com/rahatlab)
 
 ### CSS Frameworks & Libraries:
-[![CSS Frameworks & Libraries](https://skillicons.dev/icons?i=tailwind,materialui,bootstrap)](https://github.com/touhidcodes)
+[![CSS Frameworks & Libraries](https://skillicons.dev/icons?i=tailwind,materialui,bootstrap)](https://github.com/rahatlab)
 
 ### JavaScript Frameworks & Libraries:
-[![JavaScript Frameworks & Libraries](https://skillicons.dev/icons?i=react,next,redux,nodejs,express)](https://github.com/touhidcodes)
+[![JavaScript Frameworks & Libraries](https://skillicons.dev/icons?i=react,next,redux,nodejs,express)](https://github.com/rahatlab)
 
 ### Database & Model:
-[![Database & Model](https://skillicons.dev/icons?i=mongodb,mysql,postgres,prisma,supabase)](https://github.com/touhidcodes)
+[![Database & Model](https://skillicons.dev/icons?i=mongodb,mysql,postgres,prisma,supabase)](https://github.com/rahatlab)
 
 ### Deployment Platform:
-[![Deployment Platform](https://skillicons.dev/icons?i=vercel,netlify,firebase)](https://github.com/touhidcodes)
+[![Deployment Platform](https://skillicons.dev/icons?i=vercel,netlify,firebase)](https://github.com/rahatlab)
 
 ### Design & Graphics:
-[![Design & Graphics](https://skillicons.dev/icons?i=figma,ai,ps)](https://github.com/touhidcodes)
+[![Design & Graphics](https://skillicons.dev/icons?i=figma,ai,ps)](https://github.com/rahatlab)
 
 ### Tools & Technologies:
-[![Tools & Technologies](https://skillicons.dev/icons?i=windows,ubuntu,notion,git,github,vscode,postman,docker)](https://github.com/touhidcodes)
+[![Tools & Technologies](https://skillicons.dev/icons?i=windows,ubuntu,notion,git,github,vscode,postman,docker)](https://github.com/rahatlab)
 
 <br/>
 
@@ -70,15 +70,15 @@
 ## <img src="https://media1.giphy.com/media/TJP7EH5i1fB2rKeWbf/giphy.webp" width="30"><b> GITHUB STATISTICS & ANALYSIS:</b>
 
 ### GitHub Contributions:
-![Snake Grid](https://github.com/touhidcodes/contribution-snake/blob/output/grid.svg)
+![Snake Grid](https://github.com/rahatlab/contribution-snake/blob/output/grid.svg)
 
 
 ### GitHub Statistics:
-| <a><img align="center" src="https://github-readme-stats.vercel.app/api?username=touhidcodes&theme=swift&hide_border=true&include_all_commits=false&count_private=false" /></a> | <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=touhidcodes&theme=swift&hide_border=true&include_all_commits=false&count_private=false&layout=compact" /></a> |
+| <a><img align="center" src="https://github-readme-stats.vercel.app/api?username=rahatlab&theme=swift&hide_border=true&include_all_commits=false&count_private=false" /></a> | <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahatlab&theme=swift&hide_border=true&include_all_commits=false&count_private=false&layout=compact" /></a> |
 | ------------- | ------------- |
 
 ### Repository Stats & Streak:
-| <a><img align="center" src="https://github-contributor-stats.vercel.app/api?username=touhidcodes&limit=5&theme=swift&combine_all_yearly_contributions=true&hide_border=true" /></a> | <a><img align="center" src="https://streak-stats.demolab.com/?user=touhidcodes" /></a> |
+| <a><img align="center" src="https://github-contributor-stats.vercel.app/api?username=rahatlab&limit=5&theme=swift&combine_all_yearly_contributions=true&hide_border=true" /></a> | <a><img align="center" src="https://streak-stats.demolab.com/?user=rahatlab" /></a> |
 | ------------- | ------------- |
 
 <br/>
@@ -90,4 +90,4 @@
 ---
 
 <!--- visit count --->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=touhidcodes&label=Profile%20views&color=0e75b6&style=flat" alt="touhidcodes" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rahatlab&label=Profile%20views&color=0e75b6&style=flat" alt="rahatlab" /> </p>
