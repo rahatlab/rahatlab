@@ -88,7 +88,7 @@
 
 ### Repository Stats & Streak:
  <a><img align="center" src="https://streak-stats.demolab.com/?user=rahatlab" /></a> 
-| ------------- | ------------- |
+
 
 <br/>
 
