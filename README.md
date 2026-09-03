@@ -96,9 +96,9 @@
 
 <!--- random quote --->
 ##  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width ="30"><b> RANDOM DEV QUOTE:</b>
-<img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=light"/>
+ <img src="./banner/quote1.png" width="100%" alt="rahatlab"/>
 
 ---
 
 <!--- visit count --->
-<p align="left"> <img src="./banner/quote1.png" alt="rahatlab" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rahatlab&label=Profile%20views&color=0e75b6&style=flat" alt="rahatlab" /> </p>
