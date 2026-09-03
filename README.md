@@ -8,7 +8,7 @@
   <ul align="center">
     <summary><h1 style="display: inline-block">Hi, I'm Rahat</h1></summary>
     <!--- typo --->
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=33B1E9&width=435&lines=Building+Modern+Web+Experiences;React+%26+Next.js+Developer;On+My+Way+to+Full-Stack+%F0%9F%9A%80" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=33B1E9&vCenter=true&width=435&lines=Building+Modern+Web+Experiences;React+%26+Next.js+Developer;On+My+Way+to+Full-Stack+%F0%9F%9A%80" alt="Typing SVG" /></a>
   </ul>
 </div>
 
