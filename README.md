@@ -20,9 +20,9 @@
 - 🗄️ Using **Node.js, Express.js, MongoDB, Mongoose, PostgreSQL, and Prisma** for the backend.
 - 🛠️ I’m currently learning **React Native, GraphQL, Docker and AWS**.
 - 💬 Ask me about **Full-Stack (React, Next, Node, Express, MongoDB, PostgreSQL)**.
-- 🌐 Explore My Portfolio **[rahatlab](https://rahatlab.vercel.app/)** and My **[Resume](https://drive.google.com/uc?export=download&id=15hKPeWqITR4Sa_OncoDhpUdaNgnLJhBO)**
-- 📝 I regularly write articles on **[LinkedIn](https://linkedin.com/in/touhidur-zaman)**
-- 📫 Feel free to reach me out **[Email](rahatlab@gmail.com)**
+<!-- - 🌐 Explore My Portfolio **[rahatlab](https://rahatlab.vercel.app/)** and My **[Resume](https://drive.google.com/uc?export=download&id=15hKPeWqITR4Sa_OncoDhpUdaNgnLJhBO)** -->
+<!-- - 📝 I regularly write articles on **[LinkedIn](https://linkedin.com/in/touhidur-zaman)** -->
+- 📫 Feel free to reach me out **[Email](contract.rahat@gmail.com)**
   
 <br/>
 
@@ -31,10 +31,25 @@
 
 <div>
   <p align="left">
-    <a href="https://linkedin.com/in/touhidur-zaman" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="rahatlab" height="30" width="40" /></a>
-    <a href="https://discord.gg/rahatlab#9825" target="blank"><img src="https://skillicons.dev/icons?i=discord" alt="rahatlab#9825" height="30" width="40" /></a>
-    <a href="https://dev.to/rahatlab" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="rahatlab" height="30" width="40" /></a>
-    <a href="https://stackoverflow.com/users/22104988" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22104988" height="30" width="40" /></a>
+    <!-- GitHub -->
+<a href="https://github.com/rahatlab" target="_blank">
+  <img
+    src="https://skillicons.dev/icons?i=github"
+    alt="rahatlab"
+    height="30"
+    width="40"
+  />
+</a>
+
+<!-- Facebook -->
+<a href="https://www.facebook.com/rahat.rht.2024/" target="_blank">
+  <img
+    src="https://skillicons.dev/icons?i=facebook"
+    alt="rahatlab"
+    height="30"
+    width="40"
+  />
+</a>
   </p>
 </div>
 
@@ -82,6 +97,8 @@
 | ------------- | ------------- |
 
 <br/>
+
+
 
 <!--- random quote --->
 ##  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width ="30"><b> RANDOM DEV QUOTE:</b>
