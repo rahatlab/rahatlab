@@ -87,7 +87,7 @@
 
 
 ### Repository Stats & Streak:
-| <a><img align="center" src="https://github-contributor-stats.vercel.app/api?username=rahatlab&limit=5&theme=swift&combine_all_yearly_contributions=true&hide_border=true" /></a> | <a><img align="center" src="https://streak-stats.demolab.com/?user=rahatlab" /></a> |
+ <a><img align="center" src="https://streak-stats.demolab.com/?user=rahatlab" /></a> |
 | ------------- | ------------- |
 
 <br/>
